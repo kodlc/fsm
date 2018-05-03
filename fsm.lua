@@ -4,7 +4,7 @@ local testmsg = ""
 
 fsm.states = {
     ['MODEL STATE'] = function(dt)
-        -- this WHAT HAPPENS when in this state
+        -- this is WHAT HAPPENS when in this state
         -- it is also WHAT CAN HAPPEN when in this state
     end,
     
